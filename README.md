@@ -12,7 +12,6 @@ Each `week` folder includes optional Jupyter notebook labs, some of them also in
 ## Checklist
 
 ### To-Do
-- [ ] Add [typst](https://github.com/typst/typst) notes
 - [ ] Add course 2 notebooks
 - [ ] Add course 3 notebooks
 - [ ] Add requirements.txt/pyprojects and usage guide
